@@ -66,3 +66,13 @@ every internet-facing IP address receives 24/7 from bots, research scanners (e.g
 
 The core SOC skill demonstrated here: correctly distinguishing "the entire internet poking at everything
 " from "one attacker hammering one target" — a judgment call made routinely when triaging alerts in a real SOC environment.
+
+## Screenshots
+## Screenshots
+
+**SYN-only filter isolating connection attempts:**
+![SYN filter](/SYN-filter.png)
+
+**Conversations view showing dozens of one-off source IPs:**
+![Conversations](/conversations-view.png)
+
