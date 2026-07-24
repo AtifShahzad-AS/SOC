@@ -71,8 +71,8 @@ The core SOC skill demonstrated here: correctly distinguishing "the entire inter
 ## Screenshots
 
 **SYN-only filter isolating connection attempts:**
-![SYN filter](SYN-filter.png)
+![SYN filter](screenshot/SYN-filter.png)
 
 **Conversations view showing dozens of one-off source IPs:**
-![Conversations](conversations-view.png)
+![Conversations](screenshot/conversations-view.png)
 
